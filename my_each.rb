@@ -4,4 +4,5 @@ while counter < arguement.length
   yield arguement[counter]
   counter += 1
 end
+arguement
 end
